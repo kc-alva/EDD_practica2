@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1428425494 source:c:\users\cris\desktop\c_proyects\edd_practica2\main.c
+	<stdio.h>
+	<conio.h>
+	<dos.h>
+	<stdlib.h>
+	<sys\timeb.h>
+
